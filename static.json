@@ -1,0 +1,9 @@
+{
+    "routes": [
+      {
+        "src": "/iteration1/?",
+        "dest": "/iteration1/index.html"
+      }
+    ]
+  }
+  
