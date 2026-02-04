@@ -1,5 +1,34 @@
-# Vue 3 + Vite
+# PlotTwist Reading App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## About the project
+PlotTwist is a web application designed to promote literacy skills among teens and young adults through interactive activities like quizzes, debates, games, mood boards, and anonymous book reviews. The application focuses on engagement and accessibility, with no login required.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Tech stack
+- Frontend: Vue.js, HTML, CSS, JavaScript, Bootstrap
+- Backend: Python (Flask)
+- Database: MySQL
+- Other: REST APIs, JSON
+
+## My contribution
+This project was initially undertaken as part of a university group assignment.  
+This repository is an extract of the final implementation for portfolio purposes.
+
+The final application was deployed as part of the group project.
+
+My individual contributions included:
+- Developing multiple Vue.js views (e.g. reading and landing pages, moodboard page, all quizzes, results screens)
+- Implementing reading speed and timing logic on the frontend
+- Managing the frontend state and rendering dynamic data based on user input
+- Integrating frontend components with backend API endpoints
+- Contributing to UI/UX design decisions and layout using Vue and CSS
+- Testing and refining user interactions for clarity and accessibility
+
+## Features
+- Reading speed test
+- Interactive quizzes (phonetics and synonym tests)
+- Mood board creation feature
+- Anonymous book reviews
+- Reading lists and progress tracking
+
+
+This repository represents the final consolidated version of the project rather than the full group development history.
