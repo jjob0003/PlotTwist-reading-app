@@ -32,3 +32,10 @@ My individual contributions included:
 
 
 This repository represents the final consolidated version of the project rather than the full group development history.
+
+## Demo
+A short video demonstrating the main features of this application and its user flow.
+
+Link to demo video: https://drive.google.com/file/d/1f6b5iZJWEiq86UPUtRcp_y6RgaWDcTbk/view?usp=sharing
+
+* This demo video was created collaboratively as part of a university group assignment and is shared here for portfolio demonstration purposes only *
